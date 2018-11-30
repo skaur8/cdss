@@ -1,0 +1,41 @@
+Disorder,Symptoms,Medication, Age start,Age end,Gender,Medical history,Severity
+Eye-Strain,Weary-eyes,Sleep and rest,19,40,NULL,NULL,1
+Eye-Strain,Strain,Sleep and rest,NULL,NULL,NULL,NULL,1
+Red-Eyes,Bloodshot-eyes,Eye Drops and Rest,NULL,NULL,NULL,Tuberculosis,1
+Red-Eyes,Irritation,Eye Drops and Rest,NULL,NULL,NULL,Reactive arthritis,1
+Red-Eyes,Infection,Eye Drops and Rest,NULL,NULL,NULL,Hypertension,1
+Red-Eyes,Pink-Eye,Eye Drops and Rest,NULL,NULL,NULL,Syphilis,1
+Night-Blindness,Partial-Blindness,Vitamin A supplements,NULL,NULL,NULL,Vitamin-A-deficiency,4
+Night-Blindness,Near-Sightedness,Vitamin A supplements,NULL,NULL,NULL,Vitamin-A-deficiency,4
+Night-Blindness,Keratoconus,Vitamin A supplements,NULL,NULL,NULL,Vitamin-A-deficiency,4
+Lazy-Eye,Under-development-of-one-eye,Corrective glasses,NULL,NULL,NULL,Farsightedness ,2
+Lazy-Eye,Under-development-of-one-eye,Corrective glasses,NULL,NULL,NULL,Nearsightedness,2
+Lazy-Eye,Slower-movements-of-one-eye,Contacts and eye patches,NULL,NULL,NULL,Astigmatism,2
+Nystagmus,Eyes-move-Abnormaly,Vision therapy,NULL,NULL,NULL,Brain-Disease,4
+Nystagmus,Eyes-move-Abnormaly,Vision therapy,NULL,NULL,NULL,Head-injury,4
+Nystagmus,Jiggling-of-eyes-on-its-own,Corrective surgery,NULL,NULL,NULL,Stroke,4
+Strabismus,Eyes-do-not-line-up,Vision therapy,NULL,NULL,NULL,NULL,4
+Strabismus,Eyes-do-not-line-up,Corrective surgery,NULL,NULL,NULL,NULL,4
+Colour-blindness,Unable-to-recognise-few-colours,Contacts/Glasses with filters,5,102,NULL,Genetics,3
+Uveitis,Uvea-Inflammation,Medication depends on the type of uveitis,1,100,NULL,Rheumatoid-arthritis,3
+Uveitis,Blurred-Vision,Medication depends on the type of uveitis,1,100,NULL,Rheumatoid-arthritis,3
+Uveitis,Light-Sensitivity,Medication depends on the type of uveitis,1,100,NULL,Rheumatoid-arthritis,3
+Presbyopia,Unable-to-clearly-view-small-print-or-objects,"LASIK , Reading glasses,Contact lenses",35,100,NULL,Diabetes,3
+Presbyopia,Unable-to-clearly-view-small-print-or-objects,"LASIK , Reading glasses,Contact lenses",35,100,NULL,Multiple-sclerosis,3
+Floaters,dark-curtain-like-vision,Surgery to remove the vitreous,45,100,NULL,Diabetes,2
+Floaters,Tiny-specks-floating-across-your-vision,Using a laser to disrupt the floaters,45,100,NULL,Cataract-surgery,2
+Dry-Eyes,Burning-sensation,Eye-drops,NULL,NULL,NULL,Rheumatoid-arthritis,2
+Dry-Eyes,Burning-sensation,Eye plugs,NULL,NULL,NULL,Rheumatoid-arthritis,2
+Dry-Eyes,Burning-sensation,In-home humidifier,NULL,NULL,NULL,Rheumatoid-arthritis,2
+Dry-Eyes,Burning-sensation,Testosterone eyelid cream,NULL,NULL,NULL,Rheumatoid-arthritis,2
+Excess-Tearing,Blocked-tear-duct,Eye Drops,NULL,NULL,NULL,Conjuctivitis,1
+Excess-Tearing,Sensitive-to-changes-in-light/wind-and-temperature,Sunglasses,NULL,NULL,NULL,Conjuctivitis,1
+Cataracts,Glary-and-halo-vision-in-the-nights,Cataract surgery,40,100,NULL,Hypertension,4
+Cataracts,Cloudy-vision,Cataract surgery,40,100,NULL,Diabetes,4
+Glaucoma,High-pressure-in-optic-nerves,Eye drops,40,100,NULL,Diabetes,4
+Glaucoma,Blocked-blood-vessels,Surgery,40,100,NULL,Diabetes,4
+Glaucoma,Inflammatory-disorders-of-the-eye,Surgery,40,100,NULL,Diabetes,4
+Macular-degeneration,Breakdown-of-the-small-portion-in-retina-called-macula,Macular degeneration treatments,60,100,NULL,"Hypertension, obesity",4
+Diabetic-Retinopathy,Damage-to-blood-vessels-due-to-diabetes,Photocoagulation,20,64,NULL,"Diabetes, Hyper tension, Higher cholestrol",4
+Conjunctivitis,Redness/Tearing/Itching,Wash your hands regularly/Use eye drops,NULL,NULL,NULL,NULL,1
+Conjunctivitis,Sclera-covering-inflammation,Wash your hands regularly/Use eye drops,NULL,NULL,NULL,NULL,1
