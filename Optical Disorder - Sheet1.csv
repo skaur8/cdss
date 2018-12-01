@@ -1,4 +1,4 @@
-Disorder,Symptoms,Medication, Age start,Age end,Gender,Medical history,Severity
+Disorder,Symptoms,Medication, Age_start,Age_end,Gender,Medical_history,Severity
 Eye-Strain,Weary-eyes,Sleep and rest,19,40,NULL,NULL,1
 Eye-Strain,Strain,Sleep and rest,NULL,NULL,NULL,NULL,1
 Red-Eyes,Bloodshot-eyes,Eye Drops and Rest,NULL,NULL,NULL,Tuberculosis,1
